@@ -1,0 +1,47 @@
+.showcase {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.showcase--column {
+    flex-direction: column;
+    align-items:initial;
+}
+
+.showcase__item {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.content {
+    padding:20px;
+}
+
+.heading {
+    font-size: 22px;
+}
+
+.small-heading  {
+    font-size: 20px;
+}
+
+#hamburger-container {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    height: 480px;
+    border: 1px solid black;
+}
+
+#contentDiv1, #contentDiv2 {
+    padding-left: 20px;
+}
+
+.tableContainer{
+    margin: 5px;
+    width: 600px;
+    height: 400px;
+}

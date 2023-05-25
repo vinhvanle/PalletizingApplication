@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebApp>
+    <name>Palletizing</name>
+    <icon>ABBLogo.png</icon>
+    <path>Palletizing.html</path>
+</WebApp>
